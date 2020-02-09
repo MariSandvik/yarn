@@ -1,0 +1,13 @@
+{
+  "name": "Mari",
+  "version": "1.0.0",
+  "description": "yarnModule",
+  "main": "index.js",
+  "repository": "yarnModule_mari",
+  "author": "Mari Sandvik",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
